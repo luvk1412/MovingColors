@@ -1,7 +1,9 @@
 /* 
         Code for Assignment 5(b) by Luv : IIT2016085
-*/
 
+        Credits : initComponents() is a netbeans generated code with few modifications of own
+
+*/
 package MovingColors;
 
 import java.util.*;
